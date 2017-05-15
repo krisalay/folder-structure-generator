@@ -1,0 +1,21 @@
+{
+  "name": "folder-structure-generator",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "folder-structure-generator",
+    "folder generator",
+    "generator",
+    "folder",
+    "folder structure generator"
+  ],
+  "author": "krisalay",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "0.5.1"
+  }
+}
