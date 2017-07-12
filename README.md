@@ -1,8 +1,10 @@
 Folder Structure Generator
 ===================
+[![Build Status](https://api.travis-ci.org/krisalay/folder-structure-generator.svg?branch=master)](https://travis-ci.org/krisalay/folder-structure-generator)
+
 folder-structure-generator is a library that can be used to generate the project structure.
 
-You need to provide a json object which defines the hierarchy of the folders and **folder-structure-generator** will generate the appropriate folder structure for your project. 
+You need to provide a json object which defines the hierarchy of the folders and **folder-structure-generator** will generate the appropriate folder structure for your project.
 
 ----------
 
