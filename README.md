@@ -67,6 +67,12 @@ In the `index.js` file:
     var jsonStructure = require('./structure.json');
     structureGenerator(jsonStructure);
 
+### Enhancement:
+The package can be used globally by the following command.
+
+    dynamo /path/to/structure.json
+
+
 The response of the following will be:
 
     + config
@@ -83,3 +89,4 @@ Installation
 ---------------------
 
     $ npm install folder-structure-generator
+    $ npm install -g folder-structure-generator

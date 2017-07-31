@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+var path = require('path');
+
+var structureGenerator = require('../index');
+var jsonStructure = require(path.join(process.cwd(),process.argv[2]));
+structureGenerator(jsonStructure);
